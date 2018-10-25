@@ -1,0 +1,7 @@
+c:\users\sindelsz\documents\visual studio 2013\Projects\Gyakorlo3_gyorsrendezes\Gyakorlo3_gyorsrendezes\bin\Debug\Gyakorlo3_gyorsrendezes.exe.config
+C:\Users\sindelsz\Documents\Visual Studio 2013\Projects\Gyakorlo3_gyorsrendezes\Gyakorlo3_gyorsrendezes\bin\Debug\Gyakorlo3_gyorsrendezes.exe
+C:\Users\sindelsz\Documents\Visual Studio 2013\Projects\Gyakorlo3_gyorsrendezes\Gyakorlo3_gyorsrendezes\bin\Debug\Gyakorlo3_gyorsrendezes.pdb
+C:\Users\sindelsz\Documents\Visual Studio 2013\Projects\Gyakorlo3_gyorsrendezes\Gyakorlo3_gyorsrendezes\obj\Debug\Gyakorlo3_gyorsrendezes.exe
+C:\Users\sindelsz\Documents\Visual Studio 2013\Projects\Gyakorlo3_gyorsrendezes\Gyakorlo3_gyorsrendezes\obj\Debug\Gyakorlo3_gyorsrendezes.pdb
+C:\Users\sindelsz\Documents\Visual Studio 2013\Projects\Gyakorlo3_gyorsrendezes\Gyakorlo3_gyorsrendezes\obj\Debug\Gyakorlo3_gyorsrendezes.csprojAssemblyReference.cache
+C:\Users\sindelsz\Documents\Visual Studio 2013\Projects\Gyakorlo3_gyorsrendezes\Gyakorlo3_gyorsrendezes\obj\Debug\Gyakorlo3_gyorsrendezes.csproj.CoreCompileInputs.cache
